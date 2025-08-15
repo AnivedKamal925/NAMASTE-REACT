@@ -1,0 +1,30 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Have to make this complete app this time",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnivedKamal925/NAMASTE-REACT.git"
+  },
+  "keywords": [
+    "react",
+    "anived",
+    "kamal"
+  ],
+  "author": "Anived Kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnivedKamal925/NAMASTE-REACT/issues"
+  },
+  "homepage": "https://github.com/AnivedKamal925/NAMASTE-REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
